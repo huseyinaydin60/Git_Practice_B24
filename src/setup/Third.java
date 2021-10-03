@@ -10,4 +10,8 @@ public class Third {
     public void me(String a){
         System.out.println("added method");
     }
+
+    public void me (int a, int b){
+
+    }
 }
